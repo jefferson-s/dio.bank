@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\dio.bank.csproj": {}
+    "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\dio.bank.csproj": {
+    "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\dio.bank.csproj",
-        "projectName": "dio.bank",
-        "projectPath": "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\dio.bank.csproj",
+        "projectUniqueName": "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
+        "projectName": "DIO.Bank",
+        "projectPath": "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\jeff_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\obj\\",
+        "outputPath": "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeff_\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
