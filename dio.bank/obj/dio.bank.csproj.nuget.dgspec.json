@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj": {}
+    "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\DIO.Bank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj": {
+    "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\DIO.Bank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
+        "projectUniqueName": "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\DIO.Bank.csproj",
         "projectName": "DIO.Bank",
-        "projectPath": "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\DIO.Bank.csproj",
+        "projectPath": "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\DIO.Bank.csproj",
         "packagesPath": "C:\\Users\\jeff_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeff_\\Downloads\\ce457f4e-5569-4cdc-941e-bcef07db7372\\dio-dotnet-poo-lab-1-master\\obj\\",
+        "outputPath": "C:\\Users\\jeff_\\OneDrive\\Área de Trabalho\\curso dotnet\\dio.bank\\dio.bank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeff_\\AppData\\Roaming\\NuGet\\NuGet.Config"

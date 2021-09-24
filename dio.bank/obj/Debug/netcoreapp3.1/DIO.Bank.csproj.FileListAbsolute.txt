@@ -25,3 +25,17 @@ C:\Users\jeff_\Downloads\ce457f4e-5569-4cdc-941e-bcef07db7372\dio-dotnet-poo-lab
 C:\Users\jeff_\Downloads\ce457f4e-5569-4cdc-941e-bcef07db7372\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.Bank.dll
 C:\Users\jeff_\Downloads\ce457f4e-5569-4cdc-941e-bcef07db7372\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
 C:\Users\jeff_\Downloads\ce457f4e-5569-4cdc-941e-bcef07db7372\dio-dotnet-poo-lab-1-master\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\bin\Debug\netcoreapp3.1\DIO.Bank.exe
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\bin\Debug\netcoreapp3.1\DIO.Bank.deps.json
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.json
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\bin\Debug\netcoreapp3.1\DIO.Bank.runtimeconfig.dev.json
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\bin\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\bin\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.AssemblyReference.cache
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.AssemblyInfo.cs
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.dll
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.pdb
+C:\Users\jeff_\OneDrive\Área de Trabalho\curso dotnet\dio.bank\dio.bank\obj\Debug\netcoreapp3.1\DIO.Bank.genruntimeconfig.cache
